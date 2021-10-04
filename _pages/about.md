@@ -24,7 +24,7 @@ I've also spoke at various events - specifically on CNA 93.8 Money Mind, Tableau
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="hthttp://www.itscheryltan.com/images/tableauworkshop.jpeg">
+    <img src="http://www.itscheryltan.com/images/tableauworkshop.jpeg">
     <img src="http://www.itscheryltan.com/images/mnn.jpeg">
   </div>
   <em>Speaking at various events</em>
