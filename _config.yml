@@ -1,0 +1,110 @@
+#-------------------------------
+# Site Settings
+title: Cheryl Tan
+logo:  # You can add own logo. For example '/images/logo.png'.
+description: Menca personal blogging theme for Jekyll
+url: "https://cheryltyn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Cheryl Tan
+  author__bio: Writes about learning, mindfulness and general life advice. Here's my story, as I navigate life.
+  author__avatar: '/images/author2.jpg'
+
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/cheryltyn?lang=en"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/cheryltanyn/"}
+
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hey, I’m Cheryl
+  hero__description: I write about learning, mindfulness and general life advice. Here's my story, as I navigate life.
+  hero__image: '/images/author2.jpg'
+
+
+#-------------------------------
+# Newsletter
+mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: gmail.us5.list-manage.com/subscribe/post?u=4356b157fd3e7a120cd41b7bb&amp;id=668eb05448 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Subscribe for my monthly newsletter
+mailchimp__button__text: Get updated
+
+#-------------------------------
+# Gallery Footer Section
+gallery:
+  gallery__title: Gallery
+  gallery__columns: 3
+  gallery__images:
+    - alt: 'Rest'
+      url: '/images/Hackathon.JPG'
+    - alt: 'Lifestyle'
+      url: '/images/mnn.jpeg'
+    - alt: 'Hobby'
+      url: '/images/tableauworkshop.jpeg'
+    - alt: 'Notes'
+      url: '/images/Digital-Gender-Gap.png'
+    - alt: 'Rest'
+      url: '/images/Female CEOs Fortune 500.png'
+    - alt: 'Hobby'
+      url: '/images/Reconnect w nature.png'
+    - alt: 'Fashion'
+      url: '/images/gallery1.JPG'
+    - alt: 'Notes'
+      url: '/images/gallery2.JPG'
+    - alt: 'Rest'
+      url: '/images/gallery3.JPG'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: cheryltan134@gmail.com # Add your email for contact form
+  description: # Add a description of your form
+
+# NOTE
+# Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
