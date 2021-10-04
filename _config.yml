@@ -11,7 +11,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Cheryl Tan
   author__bio: Writes about learning, mindfulness and general life advice. Here's my story, as I navigate life.
-  author__avatar: '/images/author2.jpeg'
+  author__avatar: 'https://cheryltyn.github.io/cheryblog/images/author2.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/cheryltyn?lang=en"}
