@@ -3,7 +3,7 @@ layout: post
 title:  "Book Summary: Don’t Overthink It By Anne Bogel"
 description: Ever found yourself in a cycle of overthinking? Anne Bogel shares some tips on how to...
 date:   2021-05-17 15:01:35 +0300
-image:  'https://cheryltyn.github.io/cheryblog/images/book2.png'
+image:  '/images/book2.png'
 tags:   [learning, book summaries]
 ---
 Don’t Overthink It by Anne Bogel speaks about overthinking and how we can reduce that in our lives. I’m sure everyone know how it feels like being stuck in a loop of unproductive thoughts. Be it overthinking the right time to leave house or over analysing small decisions. 
