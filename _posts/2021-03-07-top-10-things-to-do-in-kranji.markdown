@@ -3,7 +3,7 @@ layout: post
 title:  Top 10 Things To Do in Kranji, Singapore                 
 description: Bored during COVID times? Here's some ideas on what you can do in Singapore...
 date:   2021-03-07 15:01:35 +0300
-image:  'images/kranji1.jpg'
+image:  'images/kranji1.jpeg'
 tags:   [lifestyle, writings]
 ---
 As we enter into 2021 still in the midst of COVID-19 restrictions, Singaporeans have been actively seeking fun activities to do within this little island. Be it using the Singapore Rediscover vouchers or hiking on trails, people are trying out more new activities locally. 
