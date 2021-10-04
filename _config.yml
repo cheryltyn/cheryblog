@@ -67,7 +67,7 @@ gallery:
 # Contact Settings
 contact:
   email: cheryltan134@gmail.com # Add your email for contact form
-  description: # Add a description of your form
+  description: Let's have a conversation. Drop me a message here. # Add a description of your form
 
 # NOTE
 # Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
