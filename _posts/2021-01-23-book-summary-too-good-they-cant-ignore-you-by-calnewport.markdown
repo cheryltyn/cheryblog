@@ -3,7 +3,7 @@ layout: post
 title:  "Book Summary: Too Good They Can’t Ignore You By Cal Newport"
 description: How does one find work they are truly passionate about? Cal Newport explores that in his book...
 date:   2021-01-23 15:01:35 +0300
-image:  'images/book1.png/'
+image:  '/images/book1.png/'
 tags:   [learning, book summaries]
 ---
 The book begins with a simple question — Why do so many people end up loving what they do, while so many others fail at doing so?
