@@ -24,8 +24,8 @@ I've also spoke at various events - specifically on CNA 93.8 Money Mind, Tableau
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/tableauworkshop.jpg">
-    <img src="/images/mnn.jpg">
+    <img src="https://github.com/cheryltyn/cheryblog/images/tableauworkshop.jpeg">
+    <img src="https://github.com/cheryltyn/cheryblog/images/mnn.jpeg">
   </div>
   <em>Speaking at various events</em>
 </div>
