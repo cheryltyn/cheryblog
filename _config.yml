@@ -10,7 +10,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Cheryl Tan
-  author__bio: Writes about learning, mindfulness and general life advice. Here's my story, as I navigate life.
+  author__bio: I write about learning, mindfulness and general life advice. Check out my story here, as I navigate life.
   author__avatar: 'https://cheryltyn.github.io/cheryblog/images/author.jpg'
 
 social:
