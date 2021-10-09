@@ -41,10 +41,8 @@ mailchimp__button__text: Get updated
 # Gallery Footer Section
 gallery:
   gallery__title: Gallery
-  gallery__columns: 2
+  gallery__columns: 3
   gallery__images:
-    - alt: 'Hackathon'
-      url: '/images/Hackathon.JPG'
     - alt: 'Tableau Workshop'
       url: '/images/tableauworkshop.jpeg'
     - alt: 'Data Viz'
