@@ -32,5 +32,5 @@ I've also spoke at various events - specifically on CNA 93.8 Money Mind, Tableau
 
 ### Get In Touch: 
 1. 🤝🏻 LinkedIn: If you want to shoot a quick question, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cheryltanyn/). 
-2. 📩 Email: For any engagement, please [email me](mailto:cheryltan134@gmail.com) directly. 
+2. 📩 Email: For any engagement, please [email me](https://www.itscheryltan.com/contact/) directly. 
 3. 🐦 Feel free to follow me on [Twitter](https://twitter.com/cheryltyn?lang=en) for quick chat and fun updates. 
