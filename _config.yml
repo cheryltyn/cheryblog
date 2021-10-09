@@ -43,8 +43,8 @@ gallery:
   gallery__title: Gallery
   gallery__columns: 3
   gallery__images:
-    - alt: 'Tableau Workshop'
-      url: '/images/tableauworkshop.jpeg'
+    - alt: 'Data Viz 3'
+      url: '/images/Reconnect w nature.png'
     - alt: 'Data Viz'
       url: '/images/Digital-Gender-Gap.png'
     - alt: 'Data Viz 2'
