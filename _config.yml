@@ -41,26 +41,16 @@ mailchimp__button__text: Get updated
 # Gallery Footer Section
 gallery:
   gallery__title: Gallery
-  gallery__columns: 3
+  gallery__columns: 2
   gallery__images:
-    - alt: 'Rest'
+    - alt: 'Hackathon'
       url: '/images/Hackathon.JPG'
-    - alt: 'Lifestyle'
-      url: '/images/mnn.jpeg'
-    - alt: 'Hobby'
+    - alt: 'Tableau Workshop'
       url: '/images/tableauworkshop.jpeg'
-    - alt: 'Notes'
+    - alt: 'Data Viz'
       url: '/images/Digital-Gender-Gap.png'
-    - alt: 'Rest'
+    - alt: 'Data Viz 2'
       url: '/images/Female CEOs Fortune 500.png'
-    - alt: 'Hobby'
-      url: '/images/Reconnect w nature.png'
-    - alt: 'Fashion'
-      url: '/images/gallery1.JPG'
-    - alt: 'Notes'
-      url: '/images/gallery2.JPG'
-    - alt: 'Rest'
-      url: '/images/gallery3.JPG'
 
 
 #-------------------------------
