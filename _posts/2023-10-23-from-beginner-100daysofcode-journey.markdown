@@ -21,7 +21,7 @@ I used Angela Yu’s [100 Days of Code - The Complete Python Pro Bootcamp for 20
 It was well structured with key learning outcomes each session. Each day starts with a short theory, followed by a few examples to try before ending off with a mini project.
 
 
-![100 Days of Code Course Example]({{site.baseurl}}/images/100daysofcode1.png)
+->![100 Days of Code Course Example]({{site.baseurl}}/images/100daysofcode1.png)<-
 *Example of a day’s coding session with key learning outcomes and challenges*
 
 ![100 Days of Code Notes Example]({{site.baseurl}}/images/100daysofcode2.png)
@@ -36,7 +36,7 @@ It was then that my mentor suggested that I posted it on LinkedIn as a form of a
 ### Tip #1: Share Your Journey
 I thought my mentor was crazy initially, no one would care about my journey as a beginner. In fact, they’ll probably hate me for spamming their feed. Regardless, I decided to give it a try. 
 
-![LinkedIn Sharing Post]({{site.baseurl}}/images/100daysofcode3.png)
+->![LinkedIn Sharing Post]({{site.baseurl}}/images/100daysofcode3.png)<-
 *Example of my post on LinkedIn*
 
 To my surprise, friends started asking about the challenge and people were keeping up with my posts. I was now accountable to my LinkedIn community. 
@@ -71,7 +71,7 @@ Unfortunately, it was at this point where my learning slowed significantly. This
 ![DataCamp Course Example]({{site.baseurl}}/images/100daysofcode4.png)
 *An example of a DataCamp course where answers were mostly given*
 
-### Tip #3 Always Work On Projects
+### Tip #3: Always Work On Projects
 Through this, I realised that learning theoretical concepts and functions were not the most important part of learning python. 
 While some theory is necessary, being able to approach a problem and conceptualise a solution is far more important. 
 For example in Angela Yu’s course, there’s a given project each day where students are challenged to come up with a workable yet effective solution. 
