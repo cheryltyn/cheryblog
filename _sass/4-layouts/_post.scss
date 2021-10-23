@@ -234,7 +234,7 @@
     }
   }
 
-  img[src$='#center'] {
+  img[src$='#wide'] {
     display: block;
     width: 100vw;
     max-width: none;
@@ -243,6 +243,11 @@
     border-radius: 0;
     pointer-events: none;
     user-select: none;
+  }
+
+  img[src*='#center'] {
+    display: block;
+    margin: auto;
   }
 
   .button {

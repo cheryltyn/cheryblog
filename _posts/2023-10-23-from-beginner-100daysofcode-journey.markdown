@@ -21,7 +21,7 @@ I used Angela Yu’s [100 Days of Code - The Complete Python Pro Bootcamp for 20
 It was well structured with key learning outcomes each session. Each day starts with a short theory, followed by a few examples to try before ending off with a mini project.
 
 
-![100 Days of Code Course Example]({{site.baseurl}}/images/100daysofcode1.png)
+![100 Days of Code Course Example]({{site.baseurl}}/images/100daysofcode1.png#center)
 *Example of a day’s coding session with key learning outcomes and challenges*
 
 ![100 Days of Code Notes Example]({{site.baseurl}}/images/100daysofcode2.png)
@@ -36,7 +36,7 @@ It was then that my mentor suggested that I posted it on LinkedIn as a form of a
 ### Tip #1: Share Your Journey
 I thought my mentor was crazy initially, no one would care about my journey as a beginner. In fact, they’ll probably hate me for spamming their feed. Regardless, I decided to give it a try. 
 
-![LinkedIn Sharing Post]({{site.baseurl}}/images/100daysofcode3.png)
+![LinkedIn Sharing Post]({{site.baseurl}}/images/100daysofcode3.png#center)
 *Example of my post on LinkedIn*
 
 To my surprise, friends started asking about the challenge and people were keeping up with my posts. I was now accountable to my LinkedIn community. 
