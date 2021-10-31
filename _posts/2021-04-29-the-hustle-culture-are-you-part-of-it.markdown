@@ -4,7 +4,7 @@ title:  The Hustle Culture — Are You Part Of It?
 description: Society demands that we work hard, and hustle for success. But how does this affect us mentally...
 date:   2021-04-29 15:01:35 +0300
 image:  '/images/hustle1.png'
-tags:   [writings, lifestyle, mindfulness]
+tags:   [lifestyle, mindfulness]
 ---
 Recently due to a health situation, I was forced to give myself some downtime and was unable to do any work. While I should be resting, the entire break turned out to be a VERY excruciating process. I spent the entire “break” thinking about what I would do if I could start work and how I was “wasting time”. As I browsed LinkedIn and Youtube, I saw how people were learning and starting new things while I was…well “wasting my time”. A friend of mine even started a Youtube channel and I thought to myself — “gosh I need to start mine soon!”. So many thoughts came to me, how I have to have to create content, how I should monetise my interests, how I have to learn data, how I have to master my personal finances. Then I realised, I fell into the trap of the Hustle Culture.
 
