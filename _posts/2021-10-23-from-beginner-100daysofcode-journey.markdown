@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Jurney From Beginner to #100daysofcode"o
+title:  "My Journey From Beginner to #100daysofcode"
 description: "Here's my tips on how to get started on your #100daysofcode journey"
 date:   2021-10-23 15:01:35 +0300
 image:  '/images/100daysofcode0.png'
