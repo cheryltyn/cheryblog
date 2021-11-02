@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Languishing During The Pandemic 
+title: Languishing During The Pandemic 
 description: With new restrictions being set in place, it seems COVID-19 is here to stay. How can we learn to thrive during the pandemic? 
 date:   2021-10-23 15:01:35 +0300
 image:  '/images/languishing0.png'
