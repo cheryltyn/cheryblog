@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "My Journey From Beginner to #100daysofcode"
-description: "Here's my tips on how to get started on your #100daysofcode journey"
+title:  Languishing During The Pandemic 
+description: With new restrictions being set in place, it seems COVID-19 is here to stay. How then can we thrive during the pandemic? 
 date:   2021-10-23 15:01:35 +0300
-image:  '/images/100daysofcode0.png'
+image:  '/images/languishing0.png'
 tags:   [mindfulness, lifestyle]
 ---
 With the recent announcement of restrictions in Singapore extending due to the COVID-19 situation. There were mixed reactions though most seemed to reflect frustration and helplessness towards the situation. 
@@ -39,6 +39,7 @@ This purpose can simply be something intangible - such as spending time with our
 For me, finding the purpose in what I do has been the most challenging. Often at times, I struggle to see the purpose in what I do, especially if it seems unproductive in the natural. Driven by toxic productivity, I tend to cast aside anything that doesn’t have a useful output. 
 It’s hard to get rid of the mindset that non-productive things in the name of self care actually matters. However, in light of the pandemic, I’m learning to be okay with spending time spending time with my friends, or even gaming - as long as it matters to me.
 
+### Finding Our Flow Together 
 To others who may find themselves in a similar situation, check out [the podcast](https://open.spotify.com/episode/3ids9PNTtoDC0xynEyQo0f?si=HmIlnpNnQemhtE0icBERjQ) and hopefully we can find our flow amidst a seemingly stagnant situation.
 * * * 
 Liked this article? Sign up for my newsletter here to get monthly updates on similar articles and other interesting ones I’ve come across. 
