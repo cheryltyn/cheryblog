@@ -21,15 +21,15 @@ In his TED talk, Adam Grant then offers a few suggestion towards alleviating thi
 The feeling of learning something and experiencing progress is proven to provide motivation and joy. This learning flow helps us move away from the stagnating feeling we encounter during the pandemic. 
 The mastery does not have to be a big accomplishment but even small wins can contribute to the feeling of progress.
 
-Whenever I feel like I’m stagnating, I try to do something that gives me the sense of progress. It can come in the form of reading a book or writing on the blog. 
-In finishing a book, an article or even video games, I try to get into the learning flow in hopes of some form of progression. 
+Whenever I feel like I’m stagnating, I try to do something that gives me a sense of progress. 
+It can come in the form of reading a book or writing on my blog. In finishing a book, an article or even video games, I try to get into the learning flow in hopes of some form of progression. 
 This has somewhat alleviated my concerns of letting life idly go by.
 
 ### Mindfulness
 As most of us continue to work from home, the lines between our work and personal time becomes increasingly blurred. This means it’s easier to check out emails and work chats even after working hours - always remaining connected to work. While this may seem productive, it actually contributes to the feeling of stagnation. 
 Uninterrupted blocks of time, may in contrast, allow us to find our flow.
 
-During the pandemic, I’ve tried to be more intentional about being mindful. When engaging in writing or reading, I try to put my phone aside and focus on the task at hand. This has helped me focus better and become more mindful. Not to say I’m a master at it, but I’ve made much progress compared to the past when I was perpetually always distracted. 
+During the pandemic, I’ve tried to be more intentional about being mindful. When engaging in activities, I try to put my phone aside and focus on the task at hand. This has helped me focus better and become more mindful. Not to say I’m a master at it, but I’ve made much progress compared to before when I was perpetually always distracted. 
 In the past when I was working, I’m worrying about my other problems. Yet when I’m supposed to be resting, I’m thinking about work. If you find yourself in a similar state of mind, disconnecting with your work after working hours and focusing on what you’re doing may help you find your flow.
 
 ### Mattering
