@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0781eab2-3d8d-443c-a629-0b7db1a6fdc8" name="Default Changelist" comment="desc change">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-10-31-languishing-during-pandemic.markdown" afterDir="false" />
+    <list default="true" id="0781eab2-3d8d-443c-a629-0b7db1a6fdc8" name="Default Changelist" comment="updates">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-11-28-book-summary-crucial-conversations.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-07-top-10-things-to-do-in-kranji.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-07-top-10-things-to-do-in-kranji.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-04-29-the-hustle-culture-are-you-part-of-it.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-29-the-hustle-culture-are-you-part-of-it.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-10-23-from-beginner-100daysofcode-journey.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-10-23-from-beginner-100daysofcode-journey.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +44,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +63,11 @@
       <workItem from="1633349551856" duration="50000" />
       <workItem from="1633350222558" duration="108000" />
       <workItem from="1634997879028" duration="3580000" />
-      <workItem from="1635684765588" duration="1474000" />
+      <workItem from="1635684765588" duration="2255000" />
+      <workItem from="1635829025183" duration="829000" />
+      <workItem from="1636082930937" duration="422000" />
+      <workItem from="1636260572706" duration="97000" />
+      <workItem from="1638086666646" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="new post on code">
       <created>1635000517233</created>
@@ -131,7 +132,49 @@
       <option name="project" value="LOCAL" />
       <updated>1635002032052</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new post">
+      <created>1635686721813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635686721813</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new post">
+      <created>1635829091187</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1635829091187</updated>
+    </task>
+    <task id="LOCAL-00012" summary="cover pic">
+      <created>1635829178166</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635829178166</updated>
+    </task>
+    <task id="LOCAL-00013" summary="cover pic">
+      <created>1635833866982</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1635833866982</updated>
+    </task>
+    <task id="LOCAL-00014" summary="cover pic">
+      <created>1635833941651</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1635833941651</updated>
+    </task>
+    <task id="LOCAL-00015" summary="updates">
+      <created>1636083024888</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1636083024888</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,16 +198,29 @@
     <MESSAGE value="center" />
     <MESSAGE value="title" />
     <MESSAGE value="desc change" />
-    <option name="LAST_COMMIT_MESSAGE" value="desc change" />
+    <MESSAGE value="new post" />
+    <MESSAGE value="cover pic" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1635002034697">
+    <state x="144" y="76" key="MergeDialog" timestamp="1635833931618">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1635002034697" />
-    <state x="521" y="337" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634997888669">
-      <screen x="0" y="25" width="1440" height="789" />
+    <state x="144" y="76" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1635833931618" />
+    <state x="358" y="215" key="MultipleFileMergeDialog" timestamp="1635833931662">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1635833931662" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1636083028454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1636083028454" />
+    <state x="455" y="239" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1635686986153" />
+    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635833910876">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1635833910875" />
     <state x="521" y="337" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.789@0.25.1440.789" timestamp="1634997888669" />
   </component>
 </project>
