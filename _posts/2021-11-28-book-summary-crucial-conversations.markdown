@@ -28,6 +28,7 @@ The first step towards achieving results you want is to fix the perception that 
 •	How would I behave if I really wanted these results?
 Avoiding the Fool's Choice can be difficult. After all, we adore the ease of simply choosing between attacking or hiding. But by refusing the Fool's Choice, we’re able to open ourselves up to new choices. Rather than an either/or choice, it becomes a search for other alternatives. 
 A practical pointer would be to consider what we want as an end goal, along with what we don't want. An example of what we don’t want could be “a heated conversation that creates bad feeling and doesn’t lead to change.” We can then present our brain with a more complex question by combining what we want and don't want into a question.
+*![Overarching question to ask ourselves](images/crucial conversations 1.png)*
 
 ### 2. Learn to Look
 We need to learn to identify when a conversation turns from a simple discussion to a crucial one. Signs of a crucial conversation include physical signals such as a faster heartbeat or a tightening in our stomach. Other behavioural signs include raising or voices and finger pointing. 
