@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Summary: Crucial Conversations: Tools for Talking When Stakes are High
+title: "Book Summary: Crucial Conversations: Tools for Talking When Stakes are High"
 description: Here's how to handle difficult conversations in every situation
 date:   2021-11-28 15:01:35 +0300
 image:  '/images/crucial conversation.png'
