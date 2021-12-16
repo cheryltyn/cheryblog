@@ -51,9 +51,12 @@ Rather than being defensive over their reactions, we can view them as signs that
 
 ### 3. Make it Safe 
 When others move to silence or violence, step out of the conversation in an attempt to build safety. To establish safety, the first step would be to identify which of the following two conditions of safety is at risk.
+
 **1. Mutual Purpose**: Do others believe you care about their goals in the conversation? Mutual Purpose means that others perceive you’re working towards a common outcome in the conversation. A sign that mutual purpose is at risk is when debates occur.
 To resolve the lack of mutual purpose, we can try to look for mutuality. Find a mutual purpose that would be so motivating to the other party.
+
 **2. Mutual Respect**: Do others believe you respect them? Without mutual respect, the conversation tends to tank as people will be fixated on the lack of respect.
+
 Start by looking for telltale signs - when people are charged with emotions and display signs of anger. It maybe difficult to maintain mutual respect especially when we are not given the due respect. In such a scenario, we can counteract the feelings by looking for ways we are similar - to empathise and sympathise with them.
 
 If respect has been violated, it would be best to **apologise**. Apologising maybe difficult, but by sacrificing our ego, we are rewarded with healthy dialogue and healthier results. However, if the mutual purpose has been misunderstood, we can work on emphasising the mutual purpose using **Contrasting**. Contrasting means clearly stating what we don't intend, and what we intend for instead. Contrasting is not apologising, but a way to ensure the message gets across clearly. It allows added context and proportion to be provided to the situation at hand. 
