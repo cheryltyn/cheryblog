@@ -10,10 +10,10 @@ Looking back in 2021, it was a year of uncertainty and growth for myself. I had 
 Here’s my 2021 as described by a song titled *smile more smile more smile more* by my favourite singer Honne (Yes, I’m a proud top 0.1% listener in 2021 according to Spotify).
 The song start with the lyrics *this is one for the future generation*, and goes on to give advice on how our generation can live our life. Oddly enough, this song does remind myself of what’s truly important in life.
 ### 1. Learning New Things
-> Create memories, not JPEGs,
-Be creative, draw
-Learn a language
-Dance, even if it feels really awkward
+> Create memories, not JPEGs, <br/>
+Be creative, draw <br/>
+Learn a language <br/> 
+Dance, even if it feels really awkward \ 
 
 Prior to 2021, I was never really interested in learning anything “non practical”. As a student, I often picked up skills that were “practical” and could either help me get a job or achieve other practical goals in life. However in 2021, I realised that I had a lifetime ahead of me to try and explore new things. I found more joy in trying new things, even if they may not provide any “useful” outputs. There were definitely some tough moments such as when I really struggled to finish my Thai homework. But I have to admit that it was an extremely fun year trying out new experiences! I also learned to be unafraid of failures, to enjoy the process more than the outcome. After all, that’s the whole point of learning. Here’s some rather random things I tried:
 Learn Thai (khoop khun kha!)
