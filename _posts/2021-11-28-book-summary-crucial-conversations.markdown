@@ -13,7 +13,7 @@ Before that, let us define what a crucial conversation is. It is simply put, any
 1. We're under pressure and emotions are running high. 
 2. Even with tons of practice beforehand, conversations may still turn awry when we get an unexpected reply. 
 
-This results in unhealthy downward spirals that can see relationships ending. In comparison, research has shown that engaging well in crucial conversation will help our relationships, our career and even our health.
+This results in unhealthy downward spirals that can see relationships ending. In comparison, research has shown that engaging well in crucial conversation will help our relationships, career and even health.
 
 ### The Root Of Effective Conversations   
 The most influential individuals in an organisation are ones who can get things done and at the same time, build relationships. The good news is we don't need to choose between being honest and effective at work. Take Kevin for example, one of the eight VP who was identified by many in his company to be exceedingly influential. While the CEO of the company was pitching a terrible idea, he was the only one who bravely engaged in a crucial conversation in a respectful manner. This is unlike many of his colleagues who kept quiet for fear of facing the wrath of their CEO. 
@@ -24,15 +24,19 @@ When it comes to risky and emotional conversations, skilled people find a way to
 
 ### 1.	Start with the Heart
 The first step towards achieving results you want is to fix the perception that others are the source of all your problems. This will limit the dialogue and progress that we can have with them. We should instead, be more introspective on how we can work on driving more meaningful conversations. In crucial conversations, we should start with the heart, specifically our own. This means starting discussions with the right motives and staying focused on our end goal no matter what happens. At this point, many people fall trap into the Fool’s Choice. The Fool’s Choice is believing that there are only two extreme either/or outcomes from a conversation. Unlike others who justify their unhealthy behaviour with the Fool's Choice, we can believe that healthy dialogue is always an option despite the circumstances. Diving deeper, we can ask ourselves these questions when we find ourselves slipping out of dialogues:
+
 •	What do I really want for myself, others and this relationship?
+
 •	How would I behave if I really wanted these results?
+
 Avoiding the Fool's Choice can be difficult. After all, we adore the ease of simply choosing between attacking or hiding. But by refusing the Fool's Choice, we’re able to open ourselves up to new choices. Rather than an either/or choice, it becomes a search for other alternatives. 
-A practical pointer would be to consider what we want as an end goal, along with what we don't want. An example of what we don’t want could be “a heated conversation that creates bad feeling and doesn’t lead to change.” We can then present our brain with a more complex question by combining what we want and don't want into a question.
+A practical pointer would be to consider what we want as an end goal, along with what we don't want. We can then present our brain with a more complex question by combining what we want and don't want into a question.
 *![Overarching question to ask ourselves](images/crucial conversation 1.png)*
 
 ### 2. Learn to Look
 We need to learn to identify when a conversation turns from a simple discussion to a crucial one. Signs of a crucial conversation include physical signals such as a faster heartbeat or a tightening in our stomach. Other behavioural signs include raising or voices and finger pointing. 
 When caught in a crucial conversations riled with emotions, most of us are too fixated on the content that we forget the external conditions of the conversation. This makes it difficult for us to pull ourselves out of the argument in order to see what's happening. By identifying when a conversation gets crucial, we can then focus on ensuring safety of the conversation. Safety is extremely important as it allows comfortable sharing into the shared pool of meaning. As people begin to feel unsafe in a conversation, they often move to silence or violence.
+
 Silence - Withholding from the shared pool of meaning and is often dealt with the three following methods:
 1.	Avoidance: Steering completely away from sensitive issues
 2.	Masking: Selectively or understating our true opinions using tactics such as sarcasm, sugarcoating and couching.
@@ -47,9 +51,12 @@ Rather than being defensive over their reactions, we can view them as signs that
 
 ### 3. Make it Safe 
 When others move to silence or violence, step out of the conversation in an attempt to build safety. To establish safety, the first step would be to identify which of the following two conditions of safety is at risk.
+
 **1. Mutual Purpose**: Do others believe you care about their goals in the conversation? Mutual Purpose means that others perceive you’re working towards a common outcome in the conversation. A sign that mutual purpose is at risk is when debates occur.
 To resolve the lack of mutual purpose, we can try to look for mutuality. Find a mutual purpose that would be so motivating to the other party.
+
 **2. Mutual Respect**: Do others believe you respect them? Without mutual respect, the conversation tends to tank as people will be fixated on the lack of respect.
+
 Start by looking for telltale signs - when people are charged with emotions and display signs of anger. It maybe difficult to maintain mutual respect especially when we are not given the due respect. In such a scenario, we can counteract the feelings by looking for ways we are similar - to empathise and sympathise with them.
 
 If respect has been violated, it would be best to **apologise**. Apologising maybe difficult, but by sacrificing our ego, we are rewarded with healthy dialogue and healthier results. However, if the mutual purpose has been misunderstood, we can work on emphasising the mutual purpose using **Contrasting**. Contrasting means clearly stating what we don't intend, and what we intend for instead. Contrasting is not apologising, but a way to ensure the message gets across clearly. It allows added context and proportion to be provided to the situation at hand. 
