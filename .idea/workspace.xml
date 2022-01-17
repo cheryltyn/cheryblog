@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0781eab2-3d8d-443c-a629-0b7db1a6fdc8" name="Default Changelist" comment="updates">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-11-28-book-summary-crucial-conversations.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,12 +43,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_pages" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +66,10 @@
       <workItem from="1635829025183" duration="829000" />
       <workItem from="1636082930937" duration="422000" />
       <workItem from="1636260572706" duration="97000" />
-      <workItem from="1638086666646" duration="638000" />
+      <workItem from="1638086666646" duration="894000" />
+      <workItem from="1638526468400" duration="122000" />
+      <workItem from="1638599021712" duration="827000" />
+      <workItem from="1642412998407" duration="522000" />
     </task>
     <task id="LOCAL-00001" summary="new post on code">
       <created>1635000517233</created>
@@ -174,7 +176,63 @@
       <option name="project" value="LOCAL" />
       <updated>1636083024888</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="updates">
+      <created>1638087393291</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1638087393291</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updates">
+      <created>1638087413472</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1638087413472</updated>
+    </task>
+    <task id="LOCAL-00018" summary="updates">
+      <created>1638087527988</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1638087527988</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updates">
+      <created>1638599034228</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1638599034228</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updates">
+      <created>1638599708170</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1638599708170</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updates">
+      <created>1638599733676</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1638599733676</updated>
+    </task>
+    <task id="LOCAL-00022" summary="updates">
+      <created>1638600036821</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1638600036821</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updates">
+      <created>1642413284919</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1642413284919</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,15 +270,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1635833931662" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1636083028454">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1642413313488">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1636083028454" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1642413313488" />
     <state x="455" y="239" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1635686986153" />
-    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635833910876">
+    <state x="320" y="189" key="Vcs.Push.Dialog.v2/0.25.1440.791@0.25.1440.791" timestamp="1638087418136" />
+    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642422052603">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1635833910875" />
+    <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1642422052603" />
     <state x="521" y="337" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.789@0.25.1440.789" timestamp="1634997888669" />
   </component>
 </project>

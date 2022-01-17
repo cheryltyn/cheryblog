@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021 According to Honne"
+title: "My 2021 According to Honne"
 description: A summary of my 2021 using my favourite singer Honne's lyrics
 date:   2022-01-17 15:01:35 +0300
 image:  '/images/honne.jpeg'
