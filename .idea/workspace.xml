@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0781eab2-3d8d-443c-a629-0b7db1a6fdc8" name="Default Changelist" comment="updates">
+      <change afterPath="$PROJECT_DIR$/_posts/2022-01-18-2021-how-kindle-changed-my-life-review.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +45,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,6 +73,7 @@
       <workItem from="1638599021712" duration="827000" />
       <workItem from="1642412998407" duration="1699000" />
       <workItem from="1642472015019" duration="264000" />
+      <workItem from="1642486772163" duration="471000" />
     </task>
     <task id="LOCAL-00001" summary="new post on code">
       <created>1635000517233</created>
@@ -268,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642426685944</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="updates">
+      <created>1642486917430</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1642486917431</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,10 +316,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1635833931662" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1642426688546">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1642486936728">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1642426688546" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1642486936728" />
     <state x="455" y="239" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1635686986153" />
     <state x="320" y="189" key="Vcs.Push.Dialog.v2/0.25.1440.791@0.25.1440.791" timestamp="1638087418136" />
     <state x="521" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642422052603">
