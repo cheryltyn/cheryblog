@@ -5,7 +5,6 @@ layout: default
 <div class="page-head">
   <div class="container">
     <div class="row">
-
       {% if page.video_embed %}
       <div class="col col-12">
         <div class="page-video">
@@ -17,6 +16,7 @@ layout: default
       </div>
 
       {% else page.id or page.path contains '_pages' or page.url contains '404' %}
+      {% include newsletter.html %}
 
       {%if page.image %}
       <div class="col col-12">
@@ -39,6 +39,7 @@ layout: default
 
 <!-- begin page -->
 <div class="container animate">
+
 
   <article class="page">
     <div class="page__content">
