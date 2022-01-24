@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting goals that help you succeed"
+title: "Setting successful goals"
 description: Here's some tools for talking when the stakes are high 
 date:   2022-01-24 15:01:35 +0300
 image:  '/images/goalsetting.jpg'
