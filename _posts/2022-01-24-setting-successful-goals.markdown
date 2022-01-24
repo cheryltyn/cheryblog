@@ -11,7 +11,6 @@ It's the beginning of a new year, the time where people start setting new goals 
 ### 1. Looking at the big picture 
 
 It's easy to set goals with sweeping statements based on how we feel at the start of the year (e.g I will drink less or I will exercise more). However, I think it's important to take a step back, look at the big picture and envision how we want to be a year from now. To help us, we can envision the various areas in our life - finances, career, relationship, healths and so on. 
-
 If we know where we want to be a year from now, it'll be easier to set achievable goals that will bring us closer to that. This brings me to my next point. 
 
 ### 2. Setting SMART goals 
