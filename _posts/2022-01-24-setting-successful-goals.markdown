@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Setting successful goals"
-description: Here's some tools for talking when the stakes are high 
+title: "Setting goals that help you succeed"
+description: As we enter the new year, here's some tips on goal setting.
 date:   2022-01-24 15:01:35 +0300
 image:  '/images/goalsetting.jpg'
 tags:   [learning]
 ---
-It's the beginning of a new year, the time where people start setting new goals for the year ahead. People usually have varying views towards goal setting, some find that it is too stressful while others find it helpful in achieving something. Personally, I'm a big fan of setting actionable goals. I believe that well-planned goals help set us up for success. For those who may find it a challenge to set goals, here's usually how I go about setting my goals and working towards it. 
+It's the beginning of a new year, the time where people start setting new goals for the year ahead. People usually have varying views towards goal setting, some find that it is too stressful while others find it helpful in achieving something. Personally, I'm a big fan of setting actionable goals.
+I believe that well-planned goals help set us up for success. As a result, I often look forward to goal setting during the start of a new year. For those who may find it a challenge to set goals, here's usually how I go about setting my goals and working towards it. 
 
 ### 1. Looking at the big picture 
 
