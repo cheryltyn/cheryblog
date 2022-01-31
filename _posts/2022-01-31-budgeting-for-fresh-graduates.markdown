@@ -8,10 +8,12 @@ tags:   [adulting]
 ---
 For many of us, starting our career also means earning a consistent pay check and taking charge of our finances. As the old saying goes, with great powers come great responsibilities. With a monthly income, we are also tasked with managing our expenses and investments. For those new to all these, it can often get quite overwhelming. People often fall into two extreme ends of the spectrum - splurging without any control or scrimping unnecessarily. As such, I highly suggest that everyone should budget and track their expenses. 
 
+### Why Budget? 
 Most people I spoke to found budgeting cumbersome and stressful given that finances has to be reviewed on a monthly basis. However, I highly suggest that you should at least give it a try for 2-3 months and find a system that works for you. Once you get the hang of it, budgeting becomes a habit that helps you build a healthy relationship with money. 
 
 When I first graduated, I knew I had to set up a proper system to budget and track my expenses or I might risk overspending. The worst feeling at the end of the month is looking at your bank balance and not knowing exactly where the money went to. I spent hours researching on apps and templates I could use to best track my expenses. That’s when I came across Zero Based Budgeting.
 
+### Zero Based Budgeting
 Zero Based Budgeting is a method that encourages you to allocate your monthly income to your expenses, savings and debts. The goal is that your income minus your expenditures equals zero by the end of the month. You can read more about it [here](https://mint.intuit.com/blog/budgeting/zero-based-budgeting/).
 
 
@@ -29,9 +31,7 @@ Some apps such as YNAB or Mint helps with Zero Based Budgeting. However, they we
 
 Aside from tracking your monthly budget, you’ll also need to track your day to day expenses. There are many apps which can help you with that, but I personally use this app called Moneyboard for 3 main reasons:
 1. It’s a one off payment of $6-7, compared to many other apps with the same functionality but requires a monthly subscription.
- 
 2. It allows me to set my own categories and budgets. Making it easier to track my expenses per category. 
-
 3. I can set the start and end date of each “month” to align it with when my salary comes in. This was one of my main factor when switching away from Seedly (another free app) 
 
 I had initially tried to find an app that could sync with my bank but found that these apps often cost a lot. Considering the trade offs, I’ve learnt to instead be more consistent with my day to day tracking. 
